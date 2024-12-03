@@ -19,7 +19,7 @@ Screenshot of my QR Code component
 ![](./Screenshot%20(3).png)
 ### Links
 - Solution URL:( https://www.frontendmentor.io/solutions.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://grand-basbousa-0b720b.netlify.app/))
 ## My process
 ### Built with
 - Semantic HTML5 markup
