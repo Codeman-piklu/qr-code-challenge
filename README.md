@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Screenshot of my QR Code component
 ![](./Screenshot%20(3).png)
 ### Links
-- Solution URL:( https://www.frontendmentor.io/solutions.com)
+- Solution URL:( [https://www.frontendmentor.io/solutions.com](https://www.frontendmentor.io/solutions/frontend-mentor---qr-code-component-qGRgizgjkh))
 - Live Site URL: ([https://your-live-site-url.com](https://grand-basbousa-0b720b.netlify.app/))
 ## My process
 ### Built with
